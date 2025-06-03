@@ -156,6 +156,12 @@ p {
   padding: 2%;
 }
 
+.one-third__title {
+  font-size: 200%;
+  padding: 5% 0;
+  font-style: bold;
+}
+
 article {
   float: left;
   width: 50%;
